@@ -13,5 +13,5 @@ Simulation Results:
 
 ![Screenshot 2024-07-07 122706](https://github.com/vedhant007/Design-and-implementation-of-high-speed-UART/assets/66167443/ca63871b-8926-48f5-a9a5-a6b06041bfda)
 
-#Reference paper that is implemented : <br/>
+# Reference paper that is implemented: <br/>
 Gupta, Ashok Kumar, et al. "Design and implementation of high-speed universal asynchronous receiver and transmitter (UART)." 2020 7th International Conference on Signal Processing and Integrated Networks (SPIN). IEEE, 2020.
